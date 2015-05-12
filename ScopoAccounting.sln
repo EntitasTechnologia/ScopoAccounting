@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopoAccounting.WebAPI", "ScopoAccounting.WebAPI\ScopoAccounting.WebAPI.csproj", "{7378C6E5-2B2E-4BEB-B5BA-D3A079D1C812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopoAccounting.Setup", "ScopoAccounting.Setup\ScopoAccounting.Setup.csproj", "{35CD05C8-FAE1-4638-A8B2-04AF46274B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopoAccounting.Operation", "ScopoAccounting.Operation\ScopoAccounting.Operation.csproj", "{3520E756-C1A5-4887-983C-59544E6D275B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopoAccounting.AutoEntry", "ScopoAccounting.AutoEntry\ScopoAccounting.AutoEntry.csproj", "{76BD3033-96C5-447A-95AF-749BA985F793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopoAccounting.Domain", "ScopoAccounting.Domain\ScopoAccounting.Domain.csproj", "{CF2F9A7D-F227-43B3-8534-1FEB5A9DB129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopoAccounting.App", "ScopoAccounting.App\ScopoAccounting.App.csproj", "{A72B069D-FCF1-4CBD-8218-93030552B1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7378C6E5-2B2E-4BEB-B5BA-D3A079D1C812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7378C6E5-2B2E-4BEB-B5BA-D3A079D1C812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7378C6E5-2B2E-4BEB-B5BA-D3A079D1C812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7378C6E5-2B2E-4BEB-B5BA-D3A079D1C812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CD05C8-FAE1-4638-A8B2-04AF46274B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CD05C8-FAE1-4638-A8B2-04AF46274B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CD05C8-FAE1-4638-A8B2-04AF46274B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CD05C8-FAE1-4638-A8B2-04AF46274B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3520E756-C1A5-4887-983C-59544E6D275B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3520E756-C1A5-4887-983C-59544E6D275B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3520E756-C1A5-4887-983C-59544E6D275B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3520E756-C1A5-4887-983C-59544E6D275B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BD3033-96C5-447A-95AF-749BA985F793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BD3033-96C5-447A-95AF-749BA985F793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BD3033-96C5-447A-95AF-749BA985F793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BD3033-96C5-447A-95AF-749BA985F793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2F9A7D-F227-43B3-8534-1FEB5A9DB129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2F9A7D-F227-43B3-8534-1FEB5A9DB129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2F9A7D-F227-43B3-8534-1FEB5A9DB129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2F9A7D-F227-43B3-8534-1FEB5A9DB129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72B069D-FCF1-4CBD-8218-93030552B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72B069D-FCF1-4CBD-8218-93030552B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72B069D-FCF1-4CBD-8218-93030552B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72B069D-FCF1-4CBD-8218-93030552B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

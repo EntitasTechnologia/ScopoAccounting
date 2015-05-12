@@ -1,0 +1,6 @@
+G:\Development\Project\ScopoAccounting\ScopoAccounting.App\bin\ScopoAccounting.App.dll.config
+G:\Development\Project\ScopoAccounting\ScopoAccounting.App\bin\ScopoAccounting.App.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting.App\bin\ScopoAccounting.App.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting.App\obj\Debug\ScopoAccounting.App.csprojResolveAssemblyReference.cache
+G:\Development\Project\ScopoAccounting\ScopoAccounting.App\obj\Debug\ScopoAccounting.App.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting.App\obj\Debug\ScopoAccounting.App.pdb

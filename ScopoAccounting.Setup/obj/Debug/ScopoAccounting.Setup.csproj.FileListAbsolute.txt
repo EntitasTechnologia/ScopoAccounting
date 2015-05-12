@@ -1,0 +1,10 @@
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Setup\bin\Debug\ScopoAccounting.Setup.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Setup\bin\Debug\ScopoAccounting.Setup.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Setup\obj\Debug\ScopoAccounting.Setup.csprojResolveAssemblyReference.cache
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Setup\obj\Debug\ScopoAccounting.Setup.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Setup\obj\Debug\ScopoAccounting.Setup.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Setup\bin\Debug\ScopoAccounting.Setup.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Setup\bin\Debug\ScopoAccounting.Setup.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Setup\obj\Debug\ScopoAccounting.Setup.csprojResolveAssemblyReference.cache
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Setup\obj\Debug\ScopoAccounting.Setup.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Setup\obj\Debug\ScopoAccounting.Setup.pdb

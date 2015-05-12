@@ -1,0 +1,8 @@
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Domain\bin\Debug\ScopoAccounting.Domain.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Domain\bin\Debug\ScopoAccounting.Domain.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Domain\obj\Debug\ScopoAccounting.Domain.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting\ScopoAccounting.Domain\obj\Debug\ScopoAccounting.Domain.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Domain\bin\Debug\ScopoAccounting.Domain.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Domain\bin\Debug\ScopoAccounting.Domain.pdb
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Domain\obj\Debug\ScopoAccounting.Domain.dll
+G:\Development\Project\ScopoAccounting\ScopoAccounting.Domain\obj\Debug\ScopoAccounting.Domain.pdb
