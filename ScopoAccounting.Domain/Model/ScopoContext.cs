@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class PostingRecord : BaseEntity
+    public class ScopoContext
     {
-        public int TransactionID { get; set; }
-        public DateTime PostingDate { get; set; }
+        //public DbSet<AccountingPolicy> AccountingPolicy { get; set; }
     }
 }

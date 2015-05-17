@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class LastNo
+    public class LastNo // Purpose Not Clear
     {
         public int BatchID { get; set; }
-        public Nullable<int> CashFlowID { get; set; }
+        public int? CashFlowID { get; set; }
     }
 }

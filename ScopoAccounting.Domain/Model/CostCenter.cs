@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class CostCenter
+    public class CostCenter : BaseEntity
     {
         public byte CostCenterID { get; set; }
         public string CostCenterName { get; set; }
-        public Nullable<bool> Status { get; set; }
-        public System.DateTime SetupDate { get; set; }
-        public int UserID { get; set; }
+        public bool Status { get; set; } // Data Type: byte or bool
     }
 }

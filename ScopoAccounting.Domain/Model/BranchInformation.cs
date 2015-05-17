@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class BranchInformation
+    public class BranchInformation : BaseEntity
     {
-        public int BranchKey { get; set; }
+        public int BranchID { get; set; }
         public byte BranchTypeID { get; set; }
-        public Nullable<int> ParentBranchKey { get; set; }
+        public int? ParentBranchID { get; set; }
         public string BranchCode { get; set; }
         public string BranchName { get; set; }
-        public System.DateTime SetupDate { get; set; }
-        public int UserID { get; set; }
     }
 }

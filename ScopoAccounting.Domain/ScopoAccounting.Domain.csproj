@@ -48,9 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\AccountingPolicy.cs" />
-    <Compile Include="Model\AccSysBranchType.cs" />
-    <Compile Include="Model\AccSysCashTypeID.cs" />
-    <Compile Include="Model\AccSysVoucherTypeID.cs" />
+    <Compile Include="Model\BranchType.cs" />
+    <Compile Include="Model\CashType.cs" />
+    <Compile Include="Model\ScopoContext.cs" />
+    <Compile Include="Model\VoucherType.cs" />
+    <Compile Include="Model\BaseEntity.cs" />
     <Compile Include="Model\BranchInformation.cs" />
     <Compile Include="Model\CashFlowHead.cs" />
     <Compile Include="Model\CostCenter.cs" />

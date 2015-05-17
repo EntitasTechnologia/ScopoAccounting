@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class CurrencyInformation
+    public class CurrencyInformation : BaseEntity
     {
         public string CurrencyCode { get; set; }
         public string CurrencyName { get; set; }
         public string CurrencySymbol { get; set; }
-        public Nullable<byte> BaseCurrencyType { get; set; }
-        public byte Status { get; set; }
-        public System.DateTime SetupDate { get; set; }
-        public int UserID { get; set; }
+        public byte? BaseCurrencyType { get; set; } // Data Type: byte or bool
+        public byte Status { get; set; } // Data Type: byte or bool
     }
 }

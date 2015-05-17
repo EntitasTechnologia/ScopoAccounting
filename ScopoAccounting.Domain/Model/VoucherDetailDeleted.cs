@@ -8,10 +8,10 @@ namespace ScopoAccounting.Domain.Model
 {
     public class VoucherDetailDeleted
     {
-        public int TransactionKey { get; set; }
+        public int TransactionID { get; set; }
         public int SerialNo { get; set; }
-        public int AccountKey { get; set; }
+        public int AccountID { get; set; }
         public decimal DrCrAmount { get; set; }
-        public Nullable<byte> CostCenterID { get; set; }
+        public byte? CostCenterID { get; set; }
     }
 }

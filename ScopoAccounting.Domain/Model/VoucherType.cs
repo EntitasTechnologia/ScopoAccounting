@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class AccSysVoucherTypeID
+    public class VoucherType
     {
         public byte VoucherTypeID { get; set; }
         public string TypeDescription { get; set; }
-        public Nullable<bool> IsManual { get; set; }
+        public bool? IsManual { get; set; }
     }
 }

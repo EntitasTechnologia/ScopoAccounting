@@ -9,7 +9,7 @@ namespace ScopoAccounting.Domain.Model
     public class FinancialYearInformation
     {
         public int SerialNo { get; set; }
-        public System.DateTime FinancialYearStartDate { get; set; }
-        public System.DateTime FinancialYearEndDate { get; set; }
+        public DateTime FinancialYearStartDate { get; set; }
+        public DateTime FinancialYearEndDate { get; set; }
     }
 }

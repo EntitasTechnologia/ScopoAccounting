@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class AccSysBranchType
+    public class BranchType
     {
         public byte BranchTypeID { get; set; }
         public string BranchTypeName { get; set; }

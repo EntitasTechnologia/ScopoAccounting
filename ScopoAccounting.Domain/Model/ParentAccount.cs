@@ -6,16 +6,14 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class ParentAccount
+    public class ParentAccount : BaseEntity
     {
-        public int AccountKey { get; set; }
-        public int ParentAccountKey { get; set; }
+        public int AccountID { get; set; }
+        public int ParentAccountID { get; set; }
         public string AccountNo { get; set; }
         public string AccountName { get; set; }
         public byte AccountType { get; set; }
-        public System.DateTime CreationDate { get; set; }
-        public byte Status { get; set; }
-        public System.DateTime SetupDate { get; set; }
-        public int UserID { get; set; }
+        public DateTime CreationDate { get; set; }
+        public byte Status { get; set; } // Data Type: byte or bool
     }
 }

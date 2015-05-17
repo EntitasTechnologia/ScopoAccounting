@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ScopoAccounting.Domain.Model
 {
-    public class AccSysCashTypeID
+    public class BaseEntity
     {
-        public byte CashTypeID { get; set; }
-        public string Description { get; set; }
+        public DateTime SetupDate { get; set; }
+        public int UserID { get; set; }
     }
 }
